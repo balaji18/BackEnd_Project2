@@ -1,0 +1,5 @@
+JavaScript is easy to learn.
+Programming makes computers do what you want them to do.
+JavaScript is the programming language of HTML and the Web.
+
+
